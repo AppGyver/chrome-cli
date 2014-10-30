@@ -1,11 +1,21 @@
 chrome-cli
 ==========
 
-
 ## Overview
 chrome-cli is a command line utility for controlling Google Chrome on OS X.
 It is a native binary that uses the Scripting Bridge to communicate
 with Chrome.
+
+AppGyver Steroids fork
+======================
+
+Used with [steroids-cli](https://www.npmjs.org/package/steroids)
+
+Fork differencies
+-------------
+  - Currently none
+
+
 
 ## Installation
 
