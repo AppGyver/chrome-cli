@@ -2,7 +2,7 @@
 
 rm -rf build
 
-xcodebuild && cp build/Release/chrome-cli dist/chrome-cli
+xcodebuild && cp build/Release/chrome-cli npm/bin/chrome-cli
 
 echo "Version is: "
-dist/chrome-cli version
+npm/bin/chrome-cli version

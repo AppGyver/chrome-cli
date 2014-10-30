@@ -1,6 +1,5 @@
 # AppGyver
-
-dist/
+npm/bin
 
 # OS X
 .DS_Store
