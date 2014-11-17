@@ -3,5 +3,9 @@
   "version": "1.5.0-AppGyver-p0",
   "license": "MIT",
   "author": "AppGyver <contact@appgyver.com>",
-  "description": "AppGyver Steroids simulator related binaries"
+  "description": "AppGyver Steroids simulator related binaries",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/AppGyver/chrome-cli.git"
+  }
 }
